@@ -1,0 +1,35 @@
+body{
+    background-color: burlywood;
+    background-image: url(https://yt3.ggpht.com/ytc/APkrFKare6tDT2ixs1m835XpBKHErRfpWyTYYkAERlOmfQ=s600-c-k-c0x00ffffff-no-rj-rp-mo);
+    background-size: cover;
+    text-align: center;
+}
+
+.gametitle {
+    text-align: center;
+    padding: 5px;
+    margin: 0px;
+    font-size: 50px;
+}
+
+#link {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#discord {
+    width: 80px;
+}
+
+#youtube{
+    width: 60px;
+}
+
+#twitch{
+    width: 60px;
+}
+
+#aboutme {
+    font-size: large;
+}
